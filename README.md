@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything maybe (:
-- 📫 How to reach me ...
+- 📫 How to reach me ... no.......
 
 <!---
 lizmii/lizmii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
